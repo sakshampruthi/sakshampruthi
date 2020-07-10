@@ -1,4 +1,6 @@
-### Hi there 👋
+# Saksham Pruthi
+
+### Hi There
 I am an **Android Developer**
 
 I am currently pursuing engineering with a Bachelor of Technology in Electronics and Communication Engineering from Bharati Vidyapeeth's College of Engineering, New Delhi(GGSIPU). 
