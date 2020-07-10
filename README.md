@@ -13,7 +13,7 @@ I'm an **Android Developer**&nbsp;<img src="https://github.com/sakshampruthi/sak
 📫 Let's talk about everything!
 <br>
 
- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-SakshamPruthi-orange?style=flat)](https://sakshampruthi.netlify.app)
+ [![Portfolio Badge](https://img.shields.io/badge/Portfolio-SakshamPruthi-orange?style=flat&logo=azure-artifacts)](https://sakshampruthi.netlify.app)
  [![LinkedIn Badge](https://img.shields.io/badge/-SakshamPruthi-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sakshampruthi/)
  [![Twitter Badge](https://img.shields.io/badge/-@Saksham0804-%231DA1F2?style=flat&labelColor=%231DA1F2&logo=twitter&logoColor=white)](https://twitter.com/saksham0804)
  [![Medium Badge](https://img.shields.io/badge/-@SakshamPruthi-03a57a?style=flat&labelColor=000000&logo=Medium)](https://medium.com/@sakshampruthi/)
