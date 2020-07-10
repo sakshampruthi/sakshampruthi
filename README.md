@@ -1,4 +1,3 @@
-# Saksham Pruthi
 
 ### Hi There! <img src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/Hi.gif" width="29px">
 I'm an **Android Developer**&nbsp;<img src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/android.gif" width="29px"/>
