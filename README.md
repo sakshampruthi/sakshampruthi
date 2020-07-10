@@ -26,7 +26,7 @@ I'm an **Android Developer**&nbsp;<img src="https://github.com/sakshampruthi/sak
   <a href="https://www.instagram.com/sakshampruthi/">
     <img align="left" alt="Saksham Pruthi | Instagram" width="24px" src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/Instagram.svg" />
   </a>
-  <a href="mailto:saksham.0804a@gmail.com">
+  <a href="mailto:saksham.0804@gmail.com">
     <img align="left" alt="Saksham Pruthi | Gmail" width="26px" src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/Gmail.svg" />
   </a>
 
