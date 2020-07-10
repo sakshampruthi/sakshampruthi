@@ -19,7 +19,7 @@ I'm an **Android Developer**&nbsp;<img src="https://github.com/sakshampruthi/sak
  [![Medium Badge](https://img.shields.io/badge/-@SakshamPruthi-03a57a?style=flat&labelColor=000000&logo=Medium)](https://medium.com/@sakshampruthi/)
  [![Gmail Badge](https://img.shields.io/badge/-saksham.0804@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white)](mailto:saksham.0804@gmail.com)
 
-<br><br>
+<br>
 
 ⚡ Fun fact: The very first Android phone from 2008 had no headphone jack and required an adapter :satisfied:
 
