@@ -15,8 +15,8 @@
 
  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Saksham%20Pruthi-orange?style=flat&logo=azure-artifacts)](https://sakshampruthi.netlify.app)
  [![LinkedIn Badge](https://img.shields.io/badge/-Saksham%20Pruthi-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sakshampruthi/)
- [![Twitter Badge](https://img.shields.io/badge/-@Saksham0804-%231DA1F2?style=flat&labelColor=%231DA1F2&logo=twitter&logoColor=white)](https://twitter.com/saksham0804)
- [![Medium Badge](https://img.shields.io/badge/-@SakshamPruthi-03a57a?style=flat&labelColor=000000&logo=Medium)](https://medium.com/@sakshampruthi/)
+ [![Twitter Badge](https://img.shields.io/badge/-@SakshamPruthi_-%231DA1F2?style=flat&labelColor=%231DA1F2&logo=twitter&logoColor=white)](https://twitter.com/SakshamPruthi_)
+ [![Medium Badge](https://img.shields.io/badge/-@SakshamPruthi-03a57a?style=flat&labelColor=000000&logo=Medium)](https://sakshampruthi.medium.com/)
  [![Gmail Badge](https://img.shields.io/badge/-saksham.0804@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white)](mailto:saksham.0804@gmail.com)
 <br>
 
